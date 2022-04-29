@@ -135,7 +135,7 @@ body{
 }
 
 .app-downloads:nth-child(2){
-    background-image: url('../images/botaoGooglePlay.png');
+    background-image: url('../images/botaogoogleplay.png');
 }
 
 @media (max-width:1024px) {
