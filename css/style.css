@@ -131,11 +131,11 @@ body{
 }
 
 .app-downloads:nth-child(1){
-    background-image: url('/images/botaoAppleStore.png');
+    background-image: url('../images/botaoAppleStore.png');
 }
 
 .app-downloads:nth-child(2){
-    background-image: url('/images/botaoGooglePlay.png');
+    background-image: url("../images/botaoGooglePlay.png)");
 }
 
 @media (max-width:1024px) {
